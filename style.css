@@ -38,6 +38,7 @@ img{
 }
 .r{
     text-align: right;
+    border-radius: 0%;
 }
 .myintro{
   text-align: left;
@@ -128,6 +129,13 @@ html, body {
 }
 #about a.active{
     color: azure;
+}
+.achieve p{
+    font-size: 25px;
+}
+#proj a{
+    text-decoration: none;
+     font-size: 25px;
 }
 
 
