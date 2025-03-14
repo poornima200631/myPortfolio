@@ -118,3 +118,7 @@ html, body {
         padding: 10px 0;
     }
 }
+#codinglinks a{
+    text-decoration: none;
+    font-weight: bold;
+}
