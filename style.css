@@ -46,7 +46,7 @@ img{
 .myintro{
   text-align: left;
   font-size: 20px;
-  border: 3px solid deeppink;
+  border: 3px solid purple;
   border-radius: 10px;
   width: 700px;
   text-align: center;
@@ -74,7 +74,7 @@ img{
 .Hobb{
     text-align: right;
   font-size: 20px;
-  border: 3px solid deeppink;
+  border: 3px solid purple;
   border-radius: 10px;
   width: 700px;
   text-align: center;
@@ -128,10 +128,10 @@ html, body {
 }
 .add a.active{
    
-    color: deeppink;
+    color: purple;
 }
 #about a.active{
-    color: deeppink;
+    color: purple;
 }
 .achieve p{
     font-size: 25px;
