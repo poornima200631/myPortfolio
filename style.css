@@ -1,13 +1,15 @@
 *{
     padding: 2px;
     margin: 2px;
-    background-color: #121212; box-shadow: 0 0 10px #00ffcc;
+    background-color: #121212;
+background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
     color: white;
 }
 .name{
 font-style:italic;
 font-size: 50px;
 padding: 30px;
+
 }
 ul{
     text-align: right;
@@ -44,7 +46,7 @@ img{
 .myintro{
   text-align: left;
   font-size: 20px;
-  border: 3px solid black;
+  border: 3px solid deeppink;
   border-radius: 10px;
   width: 700px;
   text-align: center;
@@ -72,7 +74,7 @@ img{
 .Hobb{
     text-align: right;
   font-size: 20px;
-  border: 3px solid black;
+  border: 3px solid deeppink;
   border-radius: 10px;
   width: 700px;
   text-align: center;
@@ -126,10 +128,10 @@ html, body {
 }
 .add a.active{
    
-    color: darkgreen;
+    color: deeppink;
 }
 #about a.active{
-    color: darkgreen;
+    color: deeppink;
 }
 .achieve p{
     font-size: 25px;
@@ -139,7 +141,7 @@ html, body {
      font-size: 25px;
 }
 .add a{ 
-    color: white;
+    color:white;
 }
 
 
