@@ -1,7 +1,8 @@
 *{
     padding: 2px;
     margin: 2px;
-background-color: hotpink;
+    background-color: #121212; box-shadow: 0 0 10px #00ffcc;
+    color: white;
 }
 .name{
 font-style:italic;
@@ -125,10 +126,10 @@ html, body {
 }
 .add a.active{
    
-    color: azure;
+    color: darkgreen;
 }
 #about a.active{
-    color: azure;
+    color: darkgreen;
 }
 .achieve p{
     font-size: 25px;
@@ -136,6 +137,9 @@ html, body {
 #proj a{
     text-decoration: none;
      font-size: 25px;
+}
+.add a{ 
+    color: white;
 }
 
 
